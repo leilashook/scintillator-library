@@ -1,0 +1,110 @@
+NE,Eljen,St. Gobain,Type,"Light Output % 
+Anthracene","Wavelenght of Max 
+Emission (nm) ",Decay Constant,Attenuation Length (cm),Refractive Index,H/C Ratio,Density ,"Loading Element %
+ by weight or dist. 
+feature","Softening or Flash Point 
+(°C)",Uses 
+,Anthracene ,,Crystal,100,447,30,,1.62,0.715,1.25,,217,
+,Stilbene ,,Crystal,50,410,4.5,,1.626,0.858,1.16,,125,
+NE-102A,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-200_EJ-204_EJ-208_EJ-212.pdf"">EJ-212</a>","<a href =""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/plastic-scintillators/bc400-bc404-bc408-bc412-bc416"">BC-400</a>",Plastic,65,423,2.4,250,1.581,1.103,1.023,,70,"General purpose, 
+Good general properties, 
+thin films"
+NE-104,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-200_EJ-204_EJ-208_EJ-212.pdf"">EJ-204</a>","<a href =""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/plastic-scintillators/bc400-bc404-bc408-bc412-bc416"">BC-404</a>",Plastic,68,408,1.8,160,1.58,1.107,1.023,1.85 ns time constant,70,"Fast counting,
+ Good general properties, 
+High attenuation length "
+Pilot F ,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-200_EJ-204_EJ-208_EJ-212.pdf"">EJ-200</a>","<a href =""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/plastic-scintillators/bc400-bc404-bc408-bc412-bc416"">BC-408</a>",Plastic,64,425,2.1,380,1.58,1.104,1.023,,70,"TOF counters, 
+large area, 
+Best overall general properties "
+NE-110,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-200_EJ-204_EJ-208_EJ-212.pdf"">EJ-208</a>","<a href =""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/plastic-scintillators/bc400-bc404-bc408-bc412-bc416"">BC-412</a>",Plastic,60,435,3.3,400,1.58,1.104,1.023,Longest attn. length,70,"General purpose, 
+large area, 
+long strips "
+,,"<a href =""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/plastic-scintillators/bc400-bc404-bc408-bc412-bc416"">BC-416</a>",Plastic,38,434,4,210,1.58,1.104,1.023,,70," Alphas, betas, charged particles, 
+cosmic rays, muons, protons. 
+Large area economy"
+,,"<a href =""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/plastic-scintillators/fast-timing-bc-418-bc-420-bc-422-bc-422q"">BC-418</a>",Plastic,67,391,1.4,100,1.58,1.102,1.023,1.4 ns time constant,70,"Ultra fasta timing, small sizes"
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-228_EJ-230.pdf"">EJ-230</a>","<a href =""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/plastic-scintillators/fast-timing-bc-418-bc-420-bc-422-bc-422q"">BC-420</a>",Plastic,64,391,1.5,120,1.58,1.1,1.032,1.5 ns time constant ,70,"Ultrafast timing, sheet areas, 
+Variant of EJ-228, 
+Used for detector dimensions 
+exceeding 10 cm"
+NE-111A,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-232_EJ-232Q.pdf"">EJ-232</a>","<a href =""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/plastic-scintillators/fast-timing-bc-418-bc-420-bc-422-bc-422q"">BC-422</a>",Plastic,55,370,1.6,8,1.58,1.102,1.023,1.4 ns time constant ,70,"Very fast timing, small sizes, 
+Very fast timing, Use with blue 
+WLS, Small sizes(<10 cm)  "
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-232_EJ-232Q.pdf"">EJ-232Q (11%)</a>","<a href =""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/plastic-scintillators/fast-timing-bc-418-bc-420-bc-422-bc-422q"">BC-422Q</a>",Plastic,11,370,0.7,<8,1.58,1.102,1.032,"Benzephenone, 1%",70,"Ultrafast timing, ultrafast counting "
+NE-103,,"<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/plastic-scintillators/green-emitting-bc-428"">BC-428</a>",Plastic,36,480,12.5,150,1.58,1.103,1.032,Green emitter,70,"Photodiodes and CCDs; phoswich 
+detectors "
+NE-108,,"<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/plastic-scintillators/red-emitting-bc-430"">BC-430</a>",Plastic,45,580,16.8,,1.58,1.208,1.032,Red emitter ,70,"Silicon photodiodes adn red- 
+enhanced PMTs "
+,,BC-436,Plastic,52,425,2.2,,1.61,0.60 D:C,1.13,"Deuterium,13.8%",90,Thin disks 
+,,"<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/plastic-scintillators/high-temperature-bc-440-bc-448"">BC-440</a>",Plastic,60,434,3.3,400,1.58,1.103,1.03,,99,"Polyvinyl toulene, can be brought
+ to high temperature environments"
+,,"<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/plastic-scintillators/high-temperature-bc-440-bc-448"">BC-440M</a>",Plastic,60,434,3.3,380,1.58,1.1,1.03,,99,
+NE-115,,"<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/plastic-scintillators/long-timing-constant-bc-444"">BC-444</a>",Plastic,41,428,285,180,1.58,1.109,1.032,,70,"Phoswich detectors for dE/dx 
+studies "
+NE-142,,"<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/plastic-scintillators/lead-loaded-bc-452"">BC-452</a>",Plastic,32,424,2.1,150,1.58,1.134,1.08,"Lead, 5%",60,X-ray dosimetry(< 100 keV)
+,,BC-480,Plastic,,425,2.1,400,1.58,1.1,,,70,
+,,BC-482A,Plastic,,494,12,300,1.58,1.107,1.023,,70,
+,,"<a href=""https://www.crystals.saint-gobain.com/sites/hps-mac3-cma-crystals/files/2021-10/BC490-Data-Sheet.pdf"">BC-490</a>",Plastic,55,425,2.3,,1.58,1.107,1.03,Casting resin ,70,General purpose 
+,,"<a href=""https://www.crystals.saint-gobain.com/sites/hps-mac3-cma-crystals/files/2021-12/Organics-Plastic-Scintillators.pdf"">BC-498</a>",Plastic,65,423,2.4,,1.58,1.103,1.032,Applied like paint ,70,"β, γ detection"
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-214.pdf"">EJ-214</a>",,Plastic,,435,2,,1.58,1.109,1.02,,60,Ultra thin films (0.25 micrometers)
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-228_EJ-230.pdf"">EJ-228</a>",,Plastic,67,391,1.4,,1.58,1.098,1.023,,75,"Very fast timing, High pulse pair 
+resolution, Small sizes (<10 cm) "
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-232_EJ-232Q.pdf"">EJ-232Q (0.5%)</a>",,Plastic,19,370,0.7,,1.58,1.099,1.023,,75,"Variant of EJ-232, Quenched(0.5%-5%) 
+for ultra-fast timing "
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-240.pdf"">EJ-240</a>",,Plastic,41,430,285,240,1.58,1.109,1.023,,75,"Long decay time, Phoswich detectors "
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-244_EJ-248_EJ-244M_EJ-248M.pdf"">EJ-244</a>",,Plastic,56,434,3.3,270,1.58,1.104,1.023,,99,"Elevated temperatures, Analog to EJ-208,
+ General purpose "
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-244_EJ-248_EJ-244M_EJ-248M.pdf"">EJ-244M</a>",,Plastic,56,434,3.3,270,1.58,1.104,1.023,,99,Variant of EJ-244 Crosslinked 
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-244_EJ-248_EJ-244M_EJ-248M.pdf"">EJ-248</a>",,Plastic,60,425,2.1,250,1.58,1.104,1.023,,99,"Elevated temperatures, Analog to EJ-200, 
+General purpose "
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-244_EJ-248_EJ-244M_EJ-248M.pdf"">EJ-248M</a>",,Plastic,60,425,2.1,250,1.58,1.104,1.023,,99,"Variant of EJ-248, Crosslinked "
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-254.pdf"">EJ-254 (5%)</a>",,Plastic,48,425,1.5,,1.58,1.167,1.026,,75,"Boron loaded (1% - 5%), Neutrons "
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-256.pdf"">EJ-256 (5%)</a>",,Plastic,34,425,2.1,,1.58,1.126,1.081,,75,"Lead loaded(1%-5%), X-rays, Dosimetry "
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-260_EJ-262.pdf"">EJ-260</a>",,Plastic,60,490,9.2,350,1.58,1.109,1.023,,75,"Green- emitting, Solid-state sensors "
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-260_EJ-262.pdf"">EJ-262</a>",,Plastic,57,481,2.1,250,1.58,1.109,1.023,,75,"Green- emitting, Solid-state sensors "
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-276D.pdf"">EJ-276D</a>",,Plastic,56,425,13²,,1.59,0.927,1.096,,70,"PSD plastic, Fast neutron and gamma
+ discrimination "
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-276D.pdf"">EJ-276G</a>",,Plastic,52,490,13²,,1.59,0.927,1.096,,70,"PSD plastic, Fast neutron and gamma
+ discrimination, Green- emittimg "
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-290.pdf"">EJ-290</a>",,Plastic,58,423,3,,1.58,1.107,1.023,,75,"Scintillator casting resin, General 
+purpose "
+,"<a href=""https://eljentechnology.com/images/products/data_sheets/EJ-296.pdf"">EJ-296</a>",,Plastic,60,435,2.5,,1.58,1.102,1.02,,75,"Scintillator paint, Used to make thin films "
+NE-213,"<a href=""https://eljentechnology.com/products/liquid-scintillators/ej-301-ej-309"">EJ-301</a>","<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/liquid-scintillators/neutron-gamma-psd-bc-501a-bc-519"">BC-501A</a>",Liquid,78,425,3.2,,1.51,1.212,0.874,Pulse shape discrim.,26,"γ > 100 keV, fast n spectroscopy, PSD 
+liquid, Fast neutron and gamma 
+discrimination "
+NE-224,,"<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/liquid-scintillators/large-volume-bc-505"">BC-505</a>",Liquid,80,425,2.5,,1.5,1.331,0.877,High light output ,47,"γ, fast n, large volume "
+NE-226,"<a href=""https://eljentechnology.com/products/liquid-scintillators/ej-313"">EJ-313</a>","<a href="""">BC-509</a>",Liquid,20,425,3.1,,1.38,0.0035,1.61,F,10,"γ, fast n, Hydrogen-free, neutron studies "
+,"<a href=""https://eljentechnology.com/products/liquid-scintillators/ej-321-series"">EJ-321H</a>","<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/liquid-scintillators/mineral-based-bc-517-series"">BC-517H</a>",Liquid,52,425,2,,1.48,1.89,0.86, Mineral oil-based ,81,"γ, fast n, cosmic, charged particles "
+,,"<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/liquid-scintillators/mineral-based-bc-517-series"">BC-517P</a>",Liquid,38,425,2.2,,1.47,2.05,0.85,Mineral oil-based ,115,"γ, fast n, cosmic, charged particles "
+,,"<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/liquid-scintillators/mineral-based-bc-517-series"">BC-517L</a>",Liquid,39,425,2,,1.471,2.01,0.86,Mineral oil-based ,102,"γ, fast n, cosmic, charged particles "
+,,"<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/liquid-scintillators/mineral-based-bc-517-series"">BC-517S</a>",Liquid,66,425,2,,1.49,1.7,0.87,Mineral oil-based ,53,"γ, fast n, cosmic, charged particles "
+NE-235C,,"<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/liquid-scintillators/neutron-gamma-psd-bc-501a-bc-519"">BC-519</a>",Liquid,60,425,4,,,1.73,0.875,Pulse shape discrim.,74,"γ, fast n, n-γ discrimination "
+NE-323,,"<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/liquid-scintillators/gadolinium-loaded-bc-521-bc-525"">BC-521</a>",Liquid,60,425,4,,,1.31,0.89,Gd (to 1%) ,44,"Neutron spectroscopy, neutrino research "
+,,"<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/liquid-scintillators/boron-loaded-bc-523-bc-523a"">BC-523</a>",Liquid,65,425,3.7,,,1.74,,,,
+NE-321A,,"<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/liquid-scintillators/boron-loaded-bc-523-bc-523a"">BC-523A</a>",Liquid,65,425,3.7,,,1.734,0.93,Enriched ¹⁰B,1,Total absorption neutron spectrometry 
+,"<a href=""https://eljentechnology.com/products/liquid-scintillators/ej-331-ej-335"">EJ-335</a>","<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/liquid-scintillators/gadolinium-loaded-bc-521-bc-525"">BC-525</a>",Liquid,56,425,3.8,,,1.57,0.88,Gd (to 1%) ,64,"Neutron spectrometry, neutrino research "
+,,"<a href=""https://www.crystals.saint-gobain.com/radiation-detection-scintillators/liquid-scintillators/low-temperatures-bc-533"">BC-533</a>",Liquid,51,425,3,,,1.96,0.8,Low temp operation ,65,"γ, fast n, cosmic"
+NE-230,,BC-537,Liquid,61,425,2.8,,1.5,.99 (D:C),,²H,-11,"Fast n, pulse shape discrimination "
+NE-314A,,BC-551,Liquid,40,425,2.2,,,1.31,,Pb (5% w/w),44,"γ, X-rays < 200 keV"
+,,BC-553,Liquid,34,425,3.8,,,1.47,,Sn (10% w/w),42,"y, X-rays"
+,"<a href=""https://eljentechnology.com/products/liquid-scintillators/ej-301-ej-309"">EJ-309</a>",,Liquid,80,424,3.5,,1.57,1.248,0.959,,144,"PSD liquid, Fast neutron and gamma 
+discrimination, High flash poin, Low 
+chemical toxicity, compativle with acrylic
+ plastics "
+,"<a href=""https://eljentechnology.com/products/liquid-scintillators/ej-309b"">EJ-309B (5%)</a>",,Liquid,57,424,3.5,,1.57,1.308,-0.963,,144,Variant of EJ-309 with natural boron loading (1%-5%)
+,"<a href=""https://eljentechnology.com/products/liquid-scintillators/ej-315"">EJ-315</a>",,Liquid,60,425,3.5,,1.498,0.99 (D:C),0.954,,-11,"Deuterated benzene, neutron studies "
+,"<a href=""https://eljentechnology.com/products/liquid-scintillators/ej-321-series"">EJ-321L</a>",,Liquid,39,4425,2,,1.47,2.014,0.86,,102,"Mineral oil based, large tanks, fast 
+neutron and gamma, cosmics "
+,"<a href=""https://eljentechnology.com/products/liquid-scintillators/ej-321-series"">EJ-321P</a>",,Liquid,28,425,2.2,,1.47,2.058,0.85,,115,"Mineral oil based, high flash point, safe
+ to use with gray PVC plastic "
+,"<a href=""https://eljentechnology.com/products/liquid-scintillators/ej-321-series"">EJ-321S</a>",,Liquid,66,425,2,,1.49,1.692,0.87,,74,"Mineral oil based, Highest light output 
+of the EJ-321 series "
+,"<a href=""https://eljentechnology.com/products/liquid-scintillators/ej-325a"">EJ-325A</a>",,Liquid,62,425,3.5,,1.55,1.717,0.954,,146,"Mineral oil based, PSD, Fast neutron 
+and gamma discrimination "
+,"<a href=""https://eljentechnology.com/products/liquid-scintillators/ej-331-ej-335"">EJ-331 (0.5%)</a>",,Liquid,68,424,,,1.5,1.318,0,,44,"GD loaded (0.1%- 1.5%), High light 
+output, Fast neutrons, Neutrinos "
+,"<a href=""https://eljentechnology.com/products/liquid-scintillators/ej-331-ej-335"">EJ-335(0.25%)</a>",,Liquid,55,424,,,1.49,1.567,0.89,,64,"GD loaded (0.1%-0.5%), Mineral oil 
+based, large tanks, fast neutrons, 
+neutrinos "
+,EJ-339,,Liquid,65,425,,,1.415,1.734,0.92,,-8,"¹⁰B loaded, Neutron spectrometry, PSD"
+,"<a href=""https://eljentechnology.com/products/liquid-scintillators/ej-351"">EJ-351</a>",,Liquid,65,425,3.8,,1.442,1.647,1.036,,12,"Diozane based cocktail for aqueous 
+samples "
