@@ -1,0 +1,32 @@
+Norsworthy2017NIMA842 -- http://dx.doi.org/10.1016/j.nima.2016.10.035
+                      -- Re-visit of Enqvist2013NIMA715
+                      -- CAEN V1720 250 MS/s, 2V dynamic range digitizer
+                      -- PMT + liquid cell: 12.7cm dia. x12.7 cm h. Photonis XP4512B PMT
+                      -- No PMT linearity measurements
+                      -- calibration using Cs-137
+                      -- calibration: MCNP simulation broadened with resolution function matched to data
+                      -- Integration length: Maximum of digitized waveform
+                      -- Method to extract proton light yield: Kornilov
+                      -- Proton energies: 1.15 to 5.15 MeV
+Energy (MeV), Light (MeVee)
+0.0185, 0.0673
+0.0199, 0.0675
+1.1188, 0.1564
+1.2267, 0.1713
+1.3207, 0.1936
+1.4354, 0.2265
+1.5759, 0.2678
+1.7092, 0.3115
+1.8573, 0.3540
+2.0028, 0.4113
+2.1855, 0.4744
+2.3982, 0.5499
+2.6260, 0.6346
+2.8682, 0.7411
+3.1234, 0.8428
+3.3747, 0.9825
+3.6786, 1.1095
+4.0275, 1.2761
+4.4146, 1.4849
+4.8442, 1.7032
+5.3002, 1.8804

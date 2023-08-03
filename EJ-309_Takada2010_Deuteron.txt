@@ -1,0 +1,21 @@
+///Deuteron light yield
+Takada2010NuclSciTech47 -- https://doi.org/10.1080/18811248.2010.9720971
+                        -- PMT H6527(R1250) -- multi source calibration but no mention of response for extrapolated range
+                        -- Fit function: L(Ep) = a*Ep - b[1-exp(-cEp)] with Ep the proton energy in MeV, L in MeVee
+                        -- Integration length: 200 ns
+                        -- light calibration: 137Cs, 57Mn, 60Co, 22Na, 4.4MeV from AmBe, muons (22 MeVee)
+                        -- light calibration: unclear how those were fit
+                        -- Direct measurement of ions impinged to the liquid scintillator cell through a 0.5 mm Al window
+                        -- data points provided with uncertainties
+                        -- also measured protons and alphas
+                        -- a = 0.73, b = 3.49, c = 0.092 Deuterons
+                        -- Deuterons: 14.5 -- 48 MeV
+Deuterons
+Energy (MeV), Light(MeVee), Light error(MeVee)
+14.5848, 8.3001, 1.0093
+24.0351, 14.3824, 0.7703
+31.1462, 19.429, 0.66405
+37.2281, 23.7849, 0.6109
+42.6550, 27.7689, 0.5047
+
+47.5205, 31.3545, 0.4250

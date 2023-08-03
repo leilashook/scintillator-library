@@ -1,0 +1,20 @@
+///Carbon light yield
+Norsworthy2018NIMA884 -- https://doi.org/10.1016/j.nima.2017.11.084
+                      -- PMT ET9821B 3-inch right cylinder 
+                      -- PMT linearity not mentioned
+                      -- CAEN DT5730 500 MS/s, 2V dynamic range, 14 bits
+                      -- calibration: Cs137 Compton edge fit 
+                      -- fit of data to MCNPX simulation of energy deposited convolved with resolution function
+                      -- integration length not specified
+                      -- uncertainties provided in paper
+                      -- Method to extract proton light yield: DT source, kinematic scatter
+                      -- Carbon ions: 2.8 - 3.9 MeV 
+Energy (MeV), Energy uncertainty (MeV), Light (MeVee), Light uncertainty (MeVee)
+2.856,0.0295,0.0316,0.0006
+2.987,0.0247,0.0316,0.0006
+3.182,0.0147,0.0358,0.0006
+3.243,0.0107,0.0366,0.0006
+3.450,0.0378,0.0390,0.0006
+3.621,0.0319,0.0404,0.0007
+3.871,0.0186,0.0436,0.0007
+3.947,0.0136,0.0469,0.0006

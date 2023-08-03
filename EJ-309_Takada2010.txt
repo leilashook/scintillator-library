@@ -1,0 +1,38 @@
+Takada2010NuclSciTech47 -- https://doi.org/10.1080/18811248.2010.9720971
+                        -- PMT H6527(R1250) -- multi source calibration but no mention of response for extrapolated range
+                        -- Fit function: L(Ep) = a*Ep - b[1-exp(-cEp)] with Ep the proton energy in MeV, L in MeVee
+                        -- Integration length: 200 ns
+                        -- light calibration: 137Cs, 57Mn, 60Co, 22Na, 4.4MeV from AmBe, muons (22 MeVee)
+                        -- light calibration: unclear how those were fit
+                        -- Direct measurement of ions impinged to the liquid scintillator cell through a 0.5 mm Al window
+                        -- a = 0.766, b = 2.89, c = 0.187 Protons
+                        -- data points provided with uncertainties
+                        -- also measured deuterons and alphas
+                        -- Protons: 5.8 -- 70 MeV
+Protons
+Energy (MeV), Light(MeVee), Light Error(MeVee)
+5.7895, 2.2709, 1.4077
+8.8772, 5.6707, 0.7703
+11.4971, 6.4409, 0.9031
+14.8655, 8.3267, 0.8234
+16.4561, 10.7968, 0.5843
+16.6433, 8.6720, 2.8685
+18.2339, 11.1421, 0.6640
+22.2573, 14.8871, 0.42495
+23.4737, 14.7544, 0.50465
+24.5965, 16.587, 2.0186
+27.2164, 17.3041, 1.1952
+27.8713, 17.5697, 0.3984
+32.6433, 22.7225, 1.56705
+34.8889, 23.4927, 0.9562
+36.4795, 25.1395, 0.90305
+39.3801, 27.9017, 1.38115
+41.4386, 28.5658, 0.77025
+42.7485, 30.1859, 0.7437
+45.3684, 32.417, 1.1687
+48.4561, 34.5684, 0.5578
+50.7953, 36.5073, 1.1155
+55.7544, 39.8805, 0.8234
+60.3392, 43.3333, 0.77025
+64.7368, 46.4143, 0.61085
+68.9474, 49.2828, 0.50465

@@ -1,0 +1,30 @@
+Fregeau2019NIMA941 -- https://doi.org/10.1016/j.nima.2019.06.042 
+                   -- Mesytec MPD4 with CAEN V785N ADC
+                   -- PMT:R2059 with E2979-500MOD optimized for pulse linearity
+                   -- Integration length not provided -- from MPD4?
+                   -- Light calibration: 22Na, 137Cs, 88Y and AmBe -- 0.511 keV - 4.4 MeV gammas -- 0.341 MeVee to 4.197 MeVee
+                   -- Light calibration: half height
+                   -- Protons: 3.6 - 45 MeV
+                   -- Method to extract proton light yield: Kornilov
+                   -- No uncertainties in light
+                   -- Fit function: L(Ep) = a*Ep - b[1-exp(-cEp)] with Ep the proton energy in MeV, L in MeVee
+                   -- a = 0.761, b = 3.68, c = 0.163
+Energy(MeV), Energy uncertainty (MeV), Light (MeVee)    
+3.5746, 0.0000, 1.0273
+5.4374, 0.0000, 2.0182
+6.4923, 0.4734, 2.9909
+7.4957, 0.5763, 3.3000
+8.5094, 0.6844, 3.7455
+9.4923, 0.7652, 4.2636
+11.0086, 0.9227, 5.1417
+13.0258, 1.1373, 6.4288
+15.0215, 1.3948, 7.8352
+17.0172, 1.7382, 9.3133
+19.0129, 1.9957, 10.6958
+21.5236, 2.0434, 12.4360
+24.5064, 2.9185, 14.6770
+27.5107, 3.4120, 16.9896
+30.5150, 3.9914, 19.3977
+35.0000, 4.8283, 22.7354
+39.0129, 5.6652, 26.9093
+44.5279, 7.0386, 30.5084

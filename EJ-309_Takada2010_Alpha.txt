@@ -1,0 +1,20 @@
+///Alpha light yield
+Takada2010NuclSciTech47 -- https://doi.org/10.1080/18811248.2010.9720971
+                        -- PMT H6527(R1250) -- multi source calibration but no mention of response for extrapolated range
+                        -- Fit function: L(Ep) = a*Ep - b[1-exp(-cEp)] with Ep the proton energy in MeV, L in MeVee
+                        -- Integration length: 200 ns
+                        -- light calibration: 137Cs, 57Mn, 60Co, 22Na, 4.4MeV from AmBe, muons (22 MeVee)
+                        -- light calibration: unclear how those were fit
+                        -- Direct measurement of ions impinged to the liquid scintillator cell through a 0.5 mm Al window
+                        -- data points provided with uncertainties
+                        -- also measured protons and deuterons
+                        -- a = 0.60, b = 13.6, c = 0.033 Alphas
+                        -- Alphas: 13.8 -- 90 MeV
+Alphas
+Energy (MeV), Light(MeVee), Light error(MeVee)
+13.8363, 3.7583, 1.1952
+39.0994, 13.2403, 0.9562
+55.0994, 21.4210, 0.8500
+68.1988, 33.6189, 5.7172
+79.6140, 35.2058, 0.6641
+89.8129, 41.2085, 0.5578
