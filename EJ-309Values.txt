@@ -1,16 +1,6 @@
 ////////////////
 ////EJ-309  ////
 ////////////////
-//Coincidence time resolution
-Fang2019NIMA943 -- 406.3 +/- 0.8 ps FWHM (600 keVee+ pulses) 
-                -- using 60Co source, DT5730 CAEN digitizer 500 MS/s
-                -- 5.08x5.08 cm cell unclear if cylinder or cube
-                -- 9214B Electron Tube PMT
-                -- also measured EJ-276 -- same dimensions and PMT -- 507.4 +/- 0.7 ps FWHM (600 keVee+ pulses) 
-                -- also measured BC-418 -- 3.18 cm base, 1.27 cm top, 1.27 cm height -- R329-02 PMT -- 198.3 +/- 0.8 ps FWHM (600 keVee+ pulses) 
-                -- description of the shape of the cells is inexistant. Provide base, top, height but not enough precision
-                -- https://doi.org/10.1016/j.nima.2019.162507
-
 
 ///Proton light yield
 Ambers2011NIMA638 -- calibration: Cs-137?
