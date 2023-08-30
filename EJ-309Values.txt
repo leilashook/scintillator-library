@@ -3,10 +3,6 @@
 ////////////////
 
 ///Proton light yield
-Ambers2011NIMA638 -- calibration: Cs-137?
-Not included      -- Acquisition: CAEN V1720, 12 bit, 250 Mhz, 8-channel waveform digitizer.
-                  -- PMT
-                  -- Decided not to include -- it is really unclear what was done and the data isn't presented properly
 
 Bai2017NIMA863 -- http://dx.doi.org/10.1016/j.nima.2017.04.028
                -- PMT R7724 -- non linearity not measured but several gamma sources were used
